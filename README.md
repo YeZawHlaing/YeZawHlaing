@@ -42,26 +42,6 @@
 
 ---
 
-## 🧩 Featured Projects
-
-🔹 **Disaster Preparedness System**  
-- Microservices architecture (Spring Boot)  
-- Role-based system (Admin, Organizations, Volunteers, Users)  
-- Integrated OpenWeather & OpenStreetMap  
-
-🔹 **E-commerce Backend System**  
-- RESTful APIs with secure authentication  
-- Payment integration (E-wallet in progress)  
-
-🔹 **Football Live API**  
-- Real-time data processing  
-- High-performance backend  
-
-🔹 **Uber-like Backend API**  
-- Scalable service-based architecture  
-
----
-
 ## 📈 Activity Graph
 
 [![YeZawHlaing's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YeZawHlaing&theme=tokyo-night)](https://github.com/YeZawHlaing)
