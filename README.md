@@ -24,21 +24,6 @@
 
 ---
 
-### ⚙️ My DevOps Flow
-
-```mermaid
-flowchart LR
-    A[👨‍💻 Developer] --> B[GitHub Repo]
-    B --> C[GitHub Actions CI]
-    C --> D[Build & Test]
-    D --> E[Docker Image]
-    E --> F[AWS ECR]
-    F --> G[Deploy to EC2 / Kubernetes]
-    G --> H[Application Running]
-    H --> I[Monitoring & Logs]
-```
----
-
 ## ⚡ Tech Stack
 
 ### 💻 Backend
