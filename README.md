@@ -16,13 +16,6 @@
 - 🚀 Focused on CI/CD pipelines and DevOps practices  
 
 ---
-## 🧭 DevOps Architecture
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="700"/>
-</p>
-
----
 
 ## ⚡ Tech Stack
 
