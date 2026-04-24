@@ -16,6 +16,28 @@
 - 🚀 Focused on CI/CD pipelines and DevOps practices  
 
 ---
+## 🧭 DevOps Architecture
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="700"/>
+</p>
+
+---
+
+### ⚙️ My DevOps Flow
+
+```mermaid
+flowchart LR
+    A[👨‍💻 Developer] --> B[GitHub Repo]
+    B --> C[GitHub Actions CI]
+    C --> D[Build & Test]
+    D --> E[Docker Image]
+    E --> F[AWS ECR]
+    F --> G[Deploy to EC2 / Kubernetes]
+    G --> H[Application Running]
+    H --> I[Monitoring & Logs]
+```
+---
 
 ## ⚡ Tech Stack
 
@@ -63,14 +85,9 @@
   <a href="https://github.com/YeZawHlaing">
     <img src="https://img.shields.io/badge/GitHub-YeZawHlaing-181717?style=for-the-badge&logo=github" />
   </a>
+  <a href="https://www.linkedin.com/in/ye-zaw-hlaing-3b87b8299/">
+    <img src="https://img.shields.io/badge/LinkedIn-Ye Zaw Hlaing-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
-
 ---
 
-## ⚡ Fun Fact
-
-💡 I love turning complex backend problems into clean, scalable solutions.
-
----
-
-⭐ *"Build systems that scale, automate everything, and never stop learning."*
