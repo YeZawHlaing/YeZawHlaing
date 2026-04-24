@@ -6,6 +6,22 @@
 
 ---
 
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/YeZawHlaing">
+    <img src="https://img.shields.io/badge/GitHub-YeZawHlaing-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/ye-zaw-hlaing-3b87b8299/">
+    <img src="https://img.shields.io/badge/LinkedIn-Ye Zaw Hlaing-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://yezawportfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+</p>
+
+---
+
 ## 🧑‍💻 About Me
 
 💻 Backend Developer | ⚙️ DevOps Engineer | ☁️ Cloud Infrastructure Engineer  
@@ -42,6 +58,19 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YeZawHlaing&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YeZawHlaing&theme=tokyonight" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YeZawHlaing&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
 ## 📈 Activity Graph
 
 [![YeZawHlaing's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YeZawHlaing&theme=tokyo-night)](https://github.com/YeZawHlaing)
@@ -55,17 +84,5 @@
 - ☁️ AWS + Terraform Infrastructure  
 - 🚀 Performance Optimization  
 
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/YeZawHlaing">
-    <img src="https://img.shields.io/badge/GitHub-YeZawHlaing-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/ye-zaw-hlaing-3b87b8299/">
-    <img src="https://img.shields.io/badge/LinkedIn-Ye Zaw Hlaing-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
 ---
 
