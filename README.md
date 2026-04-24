@@ -61,7 +61,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YeZawHlaing&show_icons=true&theme=tokyonight" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YeZawHlaing&theme=tokyonight" height="180"/>
 </p>
 
@@ -71,11 +70,7 @@
 
 ---
 
-## 📈 Activity Graph
 
-[![YeZawHlaing's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YeZawHlaing&theme=tokyo-night)](https://github.com/YeZawHlaing)
-
----
 
 ## 🔥 Current Focus
 
