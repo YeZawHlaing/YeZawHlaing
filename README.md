@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/ye-zaw-hlaing-3b87b8299/">
     <img src="https://img.shields.io/badge/LinkedIn-Ye Zaw Hlaing-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://yezawportfolio.vercel.app">
+  <a href="https://portfolio-tau-gilt-9i6qoexlxi.vercel.app/ ">
     <img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
 </p>
