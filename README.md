@@ -1,4 +1,4 @@
-# 🚀 Hi there, I'm Ye Zaw Hlaing 👋
+# 👋 Hi there, I'm Ye Zaw Hlaing 
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend+Developer;DevOps+Engineer;Cloud+Infrastructure+Engineer;Building+Scalable+Systems" />
