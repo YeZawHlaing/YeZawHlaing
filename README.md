@@ -15,6 +15,9 @@
   <a href="https://www.linkedin.com/in/ye-zaw-hlaing-3b87b8299/">
     <img src="https://img.shields.io/badge/LinkedIn-Ye Zaw Hlaing-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://leetcode.com/u/Ye_Zaw_01/">
+    <img src="https://img.shields.io/badge/LeetCode-YeZawHlaing-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
   <a href="https://portfolio-tau-gilt-9i6qoexlxi.vercel.app/ ">
     <img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
@@ -58,7 +61,6 @@
 
 ---
 
-
 ## 🔥 Current Focus
 
 - 🧠 Distributed Systems & Microservices  
@@ -67,4 +69,3 @@
 - 🚀 Performance Optimization  
 
 ---
-
