@@ -9,9 +9,6 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/YeZawHlaing">
-    <img src="https://img.shields.io/badge/GitHub-YeZawHlaing-181717?style=for-the-badge&logo=github" />
-  </a>
   <a href="https://www.linkedin.com/in/ye-zaw-hlaing-3b87b8299/">
     <img src="https://img.shields.io/badge/LinkedIn-Ye Zaw Hlaing-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
